@@ -1,3 +1,10 @@
-header{
+.cabecalho{
     background-color: #424e61;
-color: azure;}
+color: azure;
+display: flex;
+}
+
+.cabecalho-imagem{
+    width: 20%;
+}
+
